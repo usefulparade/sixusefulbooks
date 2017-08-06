@@ -1,0 +1,151 @@
+body{
+  background-color: white;
+}
+
+.header img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  background-color: white;
+}
+
+p {
+  font: 'georgia';
+  font-family:serif;
+}
+
+.catalogue{
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.catalogue img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  border: 3px solid black;
+}
+
+.catalogue .info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top: 6px dashed black;
+  width: 300px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.catalogue p{
+
+}
+
+.subscribe{
+  background-color: white;
+  padding: 10px;
+  margin-top: -10px;
+}
+
+.subscribe img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*margin-top: 40px;*/
+  max-width: 100px;
+}
+
+.subscribe.cont{
+  margin-left: 10%;
+}
+
+.subscribe h2{
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+h2.signup{
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+
+.subscribe .imgbox{
+  border: 6px solid black;
+  width: 300px;
+  height: 300px;
+}
+
+.subscribe p{
+
+}
+
+.about {
+  padding: 10px;
+  background-color: white;
+}
+
+.about img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 150px;
+}
+
+.about p {
+  margin-left: 20px;
+  text-align: justify;
+}
+
+
+h1{
+  margin-top: 0px;
+  font-size: 31pt;
+  letter-spacing: 10pt;
+  text-align: center;
+  /*text-decoration: underline;*/
+  /*background-color: yellow;*/
+}
+
+
+p{
+  font-size: 20px;
+  text-align: left;
+}
+
+a {
+  /*margin: 20px;*/
+  padding: 10px;
+}
+
+a:link{
+  background-color: white;
+  color: black;
+}
+
+a:visited{
+  color: black;
+  background-color: white;
+}
+
+a:hover{
+  background-color: gainsboro;
+  color: black;
+  text-decoration: underline;
+}
+
+a:active{
+  background-color: black;
+  color: white;
+  text-decoration: underline;
+}
