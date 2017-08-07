@@ -2,43 +2,77 @@ body{
   background-color: white;
 }
 
-.header img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 400px;
-  background-color: white;
+
+h1{
+  margin-top: 0px;
+  font-size: 40px;
+  letter-spacing: 5px;
+  text-align: left;
+  margin-left: 10px;
+  /*text-decoration: underline;*/
+  /*background-color: yellow;*/
 }
 
-p {
+
+p{
+  font-size: 20px;
+  text-align: left;
   font: 'georgia';
   font-family:serif;
 }
 
+a {
+  /*margin: 20px;*/
+}
+
+.logo {
+  width: 400px;
+  float: left;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.nav {
+  margin-top: 20px;
+  margin-left: 5px;
+  float: left;
+}
+
+.logo img {
+  display: block;
+  max-width: 360px;
+  background-color: white;
+}
+
+.nav h3 {
+  text-align: left;
+  letter-spacing: 5px;
+}
+
 .catalogue{
   background-color: white;
-  padding: 10px;
+  padding: 20px;
   margin-bottom: 10px;
 }
 
 .catalogue img{
   display: block;
-  margin-left: auto;
+  margin-top: 10px;
+  margin-left: 0px;
   margin-right: auto;
-  max-width: 300px;
+  max-width: 250px;
   border: 3px solid black;
 }
 
 .catalogue .info {
   display: block;
-  margin-left: auto;
+  margin-left: 0px;
   margin-right: auto;
   padding-left: 2%;
   border-bottom: 3px solid black;
   border-left: 3px solid black;
   border-right: 3px solid black;
-  border-top: 6px dashed black;
-  width: 300px;
+  width: 250px;
   padding-top: 10px;
   margin-bottom: 10px;
   background-color: white;
@@ -90,62 +124,42 @@ h2.signup{
 
 }
 
-.about {
-  padding: 10px;
+.info {
+  padding: 20px;
   background-color: white;
 }
 
-.about img {
+.info img {
   display: block;
-  margin-left: auto;
+  margin-left: 0px;
   margin-right: auto;
   max-width: 150px;
 }
 
-.about p {
-  margin-left: 20px;
+.info p {
   text-align: justify;
 }
 
 
-h1{
-  margin-top: 0px;
-  font-size: 31pt;
-  letter-spacing: 10pt;
-  text-align: center;
-  /*text-decoration: underline;*/
-  /*background-color: yellow;*/
-}
 
-
-p{
-  font-size: 20px;
-  text-align: left;
-}
-
-a {
-  /*margin: 20px;*/
-  padding: 10px;
-}
-
-a:link{
+.nav a:link{
   background-color: white;
   color: black;
 }
 
-a:visited{
+.nav a:visited{
   color: black;
   background-color: white;
 }
 
-a:hover{
-  background-color: gainsboro;
+.nav a:hover{
+  background-color: black;
   color: black;
   text-decoration: underline;
 }
 
-a:active{
+.nav a:active{
   background-color: black;
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
