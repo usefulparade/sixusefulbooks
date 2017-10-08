@@ -5,12 +5,18 @@ body{
 
 h1{
   margin-top: 0px;
-  font-size: 40px;
+  font-size: 50px;
   letter-spacing: 5px;
   text-align: left;
   margin-left: 10px;
   /*text-decoration: underline;*/
   /*background-color: yellow;*/
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 200;
+  text-align: left;
 }
 
 
@@ -32,16 +38,16 @@ a {
   margin-left: 20px;
 }
 
-.nav {
-  margin-top: 20px;
-  margin-left: 5px;
-  float: left;
-}
-
 .logo img {
   display: block;
   max-width: 360px;
   background-color: white;
+}
+
+.nav {
+  margin-top: 20px;
+  margin-left: 5px;
+  float: left;
 }
 
 .nav h3 {
@@ -52,7 +58,6 @@ a {
 .catalogue{
   background-color: white;
   padding: 20px;
-  margin-bottom: 10px;
 }
 
 .catalogue img{
@@ -68,13 +73,12 @@ a {
   display: block;
   margin-left: 0px;
   margin-right: auto;
-  padding-left: 2%;
-  border-bottom: 3px solid black;
-  border-left: 3px solid black;
-  border-right: 3px solid black;
+  border-bottom: 3px dashed black;
+  border-left: 3px dashed black;
+  border-right: 3px dashed black;
   width: 250px;
-  padding-top: 10px;
-  margin-bottom: 10px;
+  padding: 10px;
+  padding-bottom: 5px;
   background-color: white;
 }
 
@@ -82,51 +86,8 @@ a {
 
 }
 
-.subscribe{
-  background-color: white;
-  padding: 10px;
-  margin-top: -10px;
-}
-
-.subscribe img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  /*margin-top: 40px;*/
-  max-width: 100px;
-}
-
-.subscribe.cont{
-  margin-left: 10%;
-}
-
-.subscribe h2{
-  font-family: sans-serif;
-  text-align: left;
-  margin-left: 20px;
-  font-size: 30px;
-}
-
-h2.signup{
-  font-size: 30px;
-  text-align: left;
-  margin-bottom: 10px;
-}
-
-
-.subscribe .imgbox{
-  border: 6px solid black;
-  width: 300px;
-  height: 300px;
-}
-
-.subscribe p{
-
-}
-
 .info {
   padding: 20px;
-  background-color: white;
 }
 
 .info img {
@@ -141,14 +102,15 @@ h2.signup{
 }
 
 
-
 .nav a:link{
   background-color: white;
+  text-decoration: none;
   color: black;
 }
 
 .nav a:visited{
   color: black;
+  text-decoration: none;
   background-color: white;
 }
 
@@ -162,4 +124,54 @@ h2.signup{
   background-color: black;
   color: white;
   text-decoration: none;
+}
+
+a:link{
+  background-color: white;
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited{
+  color: black;
+  font-style: italic;
+  background-color: white;
+}
+
+a:hover{
+  background-color: black;
+  color: black;
+  text-decoration: underline;
+}
+
+a:active{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.talltales{
+
+}
+
+.talltales img{
+  display: inline-block;
+  position: absolute;
+  max-width: 80px;
+  background-color: white;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.talltales h1{
+  text-align: center;
+}
+
+.storyform{
+  padding: 40px;
+  background-color: white;
+}
+
+.storyform h2{
+  text-align: center;
 }
