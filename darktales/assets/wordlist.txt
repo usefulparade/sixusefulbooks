@@ -1,0 +1,51 @@
+#####characters
+a youth
+a god
+a sibling
+a parent
+a grandparent
+a mathematician
+a ruler
+a monster
+a bird
+a leviathan
+#####events
+a temptation
+a warning
+a disaster
+a journey
+a disappearance
+a redemption
+a transformation
+a consequence
+a trick
+a falsehood
+a gamble
+a mistake
+a banishment
+a betrayal
+a rebuke
+a punishment
+a longing
+a burial
+a birth
+#####settings
+a hole
+a river
+a sea
+a garden
+a mountain
+a cave
+a palace
+a boat
+a valley
+a cliff
+#####objects
+a vegetable
+a weapon
+a tree
+a song
+a seed
+a letter
+a token
+a book

@@ -1,0 +1,80 @@
+#################characters
+spectre
+the undead
+thing that bites
+upstairs neighbor
+spurned sibling
+one-legged bicyclist
+blanket-covered lump
+bespectacled taxi driver
+mosquito
+witch
+warlock
+former friend
+ghost of king
+puppeteer
+gravedigger
+bootlegger
+homesteader
+naysayer
+slayer
+senile cat
+post-office worker
+climatologist
+#################events
+discarded object
+false memory
+soft sound
+bitten
+stabbed
+dumpster discovery
+the swoop of wings
+chance meeting
+visitation
+priest knocking
+fire
+rain
+spell
+transformation
+possession
+#################settings
+attic door
+field
+staircase
+clearing
+two-story walkup
+modernist loft
+alley
+movie theater
+the docks
+bog
+gutter
+garage
+trader joe's parking lot
+pharmacy
+mojave desert
+orchard
+ice cream parlor closed for renovations
+hospital
+#################objects
+knife
+blood
+needle
+cassette tape
+doorknob
+torch
+rope
+cat paw
+lamp
+broken bottle
+mirror
+raven
+crow foot
+jar of marbles
+heirloom
+trunk
+parcel
+rug with stain
+black velvet choker necklace
+grandmother's dress
+boot print
